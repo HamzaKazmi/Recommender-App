@@ -3,7 +3,7 @@ import mysql.connector
 class Database:
 
     def __init__(self):
-        self.connection = mysql.connector.connect(user='root', password='Progamer99', host='127.0.0.1', database='recommenderData', auth_plugin='mysql_native_password', use_pure=False)
+        self.connection = mysql.connector.connect(user='root', password='------', host='127.0.0.1', database='recommenderData', auth_plugin='mysql_native_password', use_pure=False)
         self.cursor = self.connection.cursor()
 
 
