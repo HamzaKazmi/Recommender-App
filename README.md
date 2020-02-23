@@ -1,19 +1,20 @@
-# Recommender-App
+# Recipe Recommender-App
 
 Welcome to my App. 
 
-I call it the Mood App, as it it made with the goal to help users maximize their time utility and make sure they are always in a happy mood.
+Rate food recipes, and get you favourite recipe reports and recipe recomendations that match your favourite recipes.
 
-Rate your daily activities, and get satification reports, activity recomendations, and machine learning recommendation on weather you should continue doing an activity or replace it with a different activity to maximize you time utility.
+SVD Algorithm -  Using user to user similarities andcollaborative filtering to recommend new recipes of intrest. Lets user discover new recipes they would normaly not try.
 
-Logitic Regressio Model -  Takes in user activity rating and compares it with your other activities to decide weathr you should continue this activity or not.
+D3.JS - Get reports on which recipes you have enjoyed the most.
 
-SVD Algorithm -  Using user to user similarities andcollaborative filtering to recommend new actvities of intrest. Lets user discover new activities they would normaly not try.
+Backend with Python and SQL Server
 
-KNNwithMeans Algorithm - Using item to item similarities to help users pick from multiple activities. User inputs activities they want to choose from and it uses their current activity data to recommend the best activity match.
+Deploying SVD algorithm with Flask API
 
-D3.JS - Get reports on which activities have been making you feel the best etc.
+Using Firebase for user login
 
-Backend, and machine learing models are full completed and are posted in git.
+Front End with AngularJS, CSS, Bootstrap, and HTML
 
-Still working on completing front end.
+
+
