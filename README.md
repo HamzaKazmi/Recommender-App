@@ -6,8 +6,6 @@ Rate food recipes, and get you favourite recipe reports and recipe recomendation
 
 SVD Algorithm -  Using user to user similarities andcollaborative filtering to recommend new recipes of intrest. Lets user discover new recipes they would normaly not try.
 
-D3.JS - Get reports on which recipes you have enjoyed the most.
-
 Backend with Python and SQL Server
 
 Deploying SVD algorithm with Flask API
