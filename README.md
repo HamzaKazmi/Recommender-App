@@ -1,4 +1,4 @@
-# Recipe Recommender-App
+# Food Recommender-App
 
 Welcome to my App. 
 
